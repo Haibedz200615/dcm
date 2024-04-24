@@ -1,0 +1,8 @@
+npm i express
+npm i downloads nodejs -
+-----------------------
+sudo apt update && sudo apt update -y && sudo apt upgrade
+---------------------------------------------------------
+apt-get install apache2 -y && systemctl start apache2.service && apt-get install php -y
+---------------------------------------------------------------------------------------
+screen node index.js >On Api| pkill screen >Off Api
